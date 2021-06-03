@@ -1,0 +1,16 @@
+C:\Users\brand\source\repos\LxPOS\LxPOS\bin\Debug\net5.0\LxPOS.exe
+C:\Users\brand\source\repos\LxPOS\LxPOS\bin\Debug\net5.0\LxPOS.deps.json
+C:\Users\brand\source\repos\LxPOS\LxPOS\bin\Debug\net5.0\LxPOS.runtimeconfig.json
+C:\Users\brand\source\repos\LxPOS\LxPOS\bin\Debug\net5.0\LxPOS.runtimeconfig.dev.json
+C:\Users\brand\source\repos\LxPOS\LxPOS\bin\Debug\net5.0\LxPOS.dll
+C:\Users\brand\source\repos\LxPOS\LxPOS\bin\Debug\net5.0\ref\LxPOS.dll
+C:\Users\brand\source\repos\LxPOS\LxPOS\bin\Debug\net5.0\LxPOS.pdb
+C:\Users\brand\source\repos\LxPOS\LxPOS\obj\Debug\net5.0\LxPOS.csprojAssemblyReference.cache
+C:\Users\brand\source\repos\LxPOS\LxPOS\obj\Debug\net5.0\LxPOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brand\source\repos\LxPOS\LxPOS\obj\Debug\net5.0\LxPOS.AssemblyInfoInputs.cache
+C:\Users\brand\source\repos\LxPOS\LxPOS\obj\Debug\net5.0\LxPOS.AssemblyInfo.cs
+C:\Users\brand\source\repos\LxPOS\LxPOS\obj\Debug\net5.0\LxPOS.csproj.CoreCompileInputs.cache
+C:\Users\brand\source\repos\LxPOS\LxPOS\obj\Debug\net5.0\LxPOS.dll
+C:\Users\brand\source\repos\LxPOS\LxPOS\obj\Debug\net5.0\ref\LxPOS.dll
+C:\Users\brand\source\repos\LxPOS\LxPOS\obj\Debug\net5.0\LxPOS.pdb
+C:\Users\brand\source\repos\LxPOS\LxPOS\obj\Debug\net5.0\LxPOS.genruntimeconfig.cache

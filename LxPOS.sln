@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LxPOS", "LxPOS\LxPOS.csproj", "{5CEB64F4-47F8-497E-ADCF-34717EF86CCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LxPOSModels", "LxPOSModels\LxPOSModels.csproj", "{97B393D2-2F5C-4563-9BAE-1F9D4A8686DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CEB64F4-47F8-497E-ADCF-34717EF86CCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CEB64F4-47F8-497E-ADCF-34717EF86CCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CEB64F4-47F8-497E-ADCF-34717EF86CCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CEB64F4-47F8-497E-ADCF-34717EF86CCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97B393D2-2F5C-4563-9BAE-1F9D4A8686DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97B393D2-2F5C-4563-9BAE-1F9D4A8686DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97B393D2-2F5C-4563-9BAE-1F9D4A8686DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97B393D2-2F5C-4563-9BAE-1F9D4A8686DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91A4EFC6-A881-4F8A-ABDF-F5B4FBBCB9C8}
+	EndGlobalSection
+EndGlobal

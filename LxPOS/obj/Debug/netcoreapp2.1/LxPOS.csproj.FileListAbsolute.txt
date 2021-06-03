@@ -1,0 +1,15 @@
+C:\Users\brand\source\repos\LxPOS\LxPOS\bin\Debug\netcoreapp2.1\LxPOS.deps.json
+C:\Users\brand\source\repos\LxPOS\LxPOS\bin\Debug\netcoreapp2.1\LxPOS.runtimeconfig.json
+C:\Users\brand\source\repos\LxPOS\LxPOS\bin\Debug\netcoreapp2.1\LxPOS.runtimeconfig.dev.json
+C:\Users\brand\source\repos\LxPOS\LxPOS\bin\Debug\netcoreapp2.1\LxPOS.dll
+C:\Users\brand\source\repos\LxPOS\LxPOS\bin\Debug\netcoreapp2.1\LxPOS.pdb
+C:\Users\brand\source\repos\LxPOS\LxPOS\obj\Debug\netcoreapp2.1\LxPOS.csprojAssemblyReference.cache
+C:\Users\brand\source\repos\LxPOS\LxPOS\obj\Debug\netcoreapp2.1\LxPOS.AssemblyInfoInputs.cache
+C:\Users\brand\source\repos\LxPOS\LxPOS\obj\Debug\netcoreapp2.1\LxPOS.AssemblyInfo.cs
+C:\Users\brand\source\repos\LxPOS\LxPOS\obj\Debug\netcoreapp2.1\LxPOS.csproj.CoreCompileInputs.cache
+C:\Users\brand\source\repos\LxPOS\LxPOS\obj\Debug\netcoreapp2.1\LxPOS.dll
+C:\Users\brand\source\repos\LxPOS\LxPOS\obj\Debug\netcoreapp2.1\LxPOS.pdb
+C:\Users\brand\source\repos\LxPOS\LxPOS\obj\Debug\netcoreapp2.1\LxPOS.genruntimeconfig.cache
+C:\Users\brand\source\repos\LxPOS\LxPOS\bin\Debug\netcoreapp2.1\LxPOSModels.dll
+C:\Users\brand\source\repos\LxPOS\LxPOS\bin\Debug\netcoreapp2.1\LxPOSModels.pdb
+C:\Users\brand\source\repos\LxPOS\LxPOS\obj\Debug\netcoreapp2.1\LxPOS.csproj.CopyComplete

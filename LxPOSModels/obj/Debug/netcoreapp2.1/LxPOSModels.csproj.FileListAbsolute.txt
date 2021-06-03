@@ -1,0 +1,12 @@
+C:\Users\brand\source\repos\LxPOS\LxPOSModels\bin\Debug\netcoreapp2.1\LxPOSModels.deps.json
+C:\Users\brand\source\repos\LxPOS\LxPOSModels\bin\Debug\netcoreapp2.1\LxPOSModels.runtimeconfig.json
+C:\Users\brand\source\repos\LxPOS\LxPOSModels\bin\Debug\netcoreapp2.1\LxPOSModels.runtimeconfig.dev.json
+C:\Users\brand\source\repos\LxPOS\LxPOSModels\bin\Debug\netcoreapp2.1\LxPOSModels.dll
+C:\Users\brand\source\repos\LxPOS\LxPOSModels\bin\Debug\netcoreapp2.1\LxPOSModels.pdb
+C:\Users\brand\source\repos\LxPOS\LxPOSModels\obj\Debug\netcoreapp2.1\LxPOSModels.csprojAssemblyReference.cache
+C:\Users\brand\source\repos\LxPOS\LxPOSModels\obj\Debug\netcoreapp2.1\LxPOSModels.AssemblyInfoInputs.cache
+C:\Users\brand\source\repos\LxPOS\LxPOSModels\obj\Debug\netcoreapp2.1\LxPOSModels.AssemblyInfo.cs
+C:\Users\brand\source\repos\LxPOS\LxPOSModels\obj\Debug\netcoreapp2.1\LxPOSModels.csproj.CoreCompileInputs.cache
+C:\Users\brand\source\repos\LxPOS\LxPOSModels\obj\Debug\netcoreapp2.1\LxPOSModels.dll
+C:\Users\brand\source\repos\LxPOS\LxPOSModels\obj\Debug\netcoreapp2.1\LxPOSModels.pdb
+C:\Users\brand\source\repos\LxPOS\LxPOSModels\obj\Debug\netcoreapp2.1\LxPOSModels.genruntimeconfig.cache
